@@ -1,0 +1,27 @@
+{% extends "advance_app_template/base.html" %}
+{% block advance_app_block %}
+    <div class="jumbotron">
+    <h1>Welcome to School Detail Page</h1>
+    <h2>School details:</h2>
+    <p>Name: {{ school.name }}</p>
+    <p>Principal: {{ school.principal }}</p>
+    <p>Location: {{ school.location }}</p>
+
+    <h3>Students:</h3>
+    {% for student in school.students.all %}
+        <p>{{ student.name }} who is {{ student.age }} years old.</p>
+    {% endfor %}
+
+    </div>
+
+    <div class="container">
+        <div class="row justify-content-around">
+            <div class="col-auto">
+                <p><a class="btn btn-warning" href="{% url 'advance_app:update'  pk=school.pk %}">Update</a></p>
+            </div>
+            <div class="col-auto">
+                <p><a class="btn btn-danger" href="{% url 'advance_app:delete'  pk=school.pk %}">Delete</a></p>
+            </div>
+        </div>
+    </div>
+{% endblock %}

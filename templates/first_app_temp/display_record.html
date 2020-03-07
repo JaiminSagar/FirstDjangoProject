@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+{% load static %}
+<html>
+    <head>
+        <title>
+            Display Records
+        </title>
+        <link rel="stylesheet" href= {% static "/css/style.css" %}>
+    </head>
+    <body>
+        <h1>Hi Welcome to Django MVT</h1>
+        <h2>Here are your access Records</h2>
+        
+        <div class="djangoTwo">
+            {% if access_records %}
+                <table class="djangoTwo">
+                    <thead>
+                        <th>Site Name</th>
+                        <th>Date Accessed</th>
+                    </thead>
+                   {% for acc in access_records %}
+                       <tr>
+                            <td>{{ acc.name }}</td>
+                            <td>{{ acc.date }}</td>
+                       </tr>
+                   {% endfor %}
+                </table>
+                {% else %}
+                    <p>NO Access Record Found</p>
+            {% endif %}
+        </div>
+    </body>
+</html>

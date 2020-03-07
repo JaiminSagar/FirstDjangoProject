@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+{% extends "first_app_temp/base.html" %}
+{% load static %}
+
+{% block body_block %}
+<html>
+    <head>
+        <title>
+            Static Files
+        </title>
+        <link rel="stylesheet" href="{% static "/css/style.css" %}" />
+    </head>
+    <body>
+
+        <h1>
+            This is a Django,
+        </h1>
+        <h2>{{ insert_me|cut:'Hello' }}</h2>
+        <img src= {% static "images/django.png" %} alt="DjangoLogo" />
+    </body>
+</html>
+{% endblock %}

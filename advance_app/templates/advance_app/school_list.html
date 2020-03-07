@@ -1,0 +1,14 @@
+{% extends "advance_app_template/base.html" %}
+{% block advance_app_block %}
+    <h1>Welcome to a list of all the schools!</h1>
+    <ol>
+        {% for school in school_list %}
+            <h2>
+                <li>
+                    <a href="{{ school.id }}">{{ school.name }}</a>
+                </li>
+            </h2>
+        {% endfor %}
+
+    </ol>
+{% endblock %}

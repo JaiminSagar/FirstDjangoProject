@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+{% load static %}
+
+<html>
+    <head>
+`       <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    </head>
+    <body>
+       <nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href="#">Navbar</a>
+
+
+    <div class="navbar-nav">
+      <a class="nav-item nav-link active" href="{% url 'advance_app:advance_index' %}">Index <span class="sr-only">(current)</span></a>
+      <a class="nav-item nav-link" href="{% url 'advance_app:cbv_View' %}">View Based CBV</a>
+      <a class="nav-item nav-link" href="{% url 'advance_app:cbv_TemplateView' %}">Template View based CBV</a>
+{#      <a class="nav-item nav-link" href="{% url 'advance_app:school_detail' %}">School Detail View</a>#}
+      <a class="nav-item nav-link" href="{% url 'advance_app:school_view' %}">School List View</a>
+      <a class="nav-item nav-link" href="{% url 'advance_app:create' %}">Create School</a>
+    </div>
+</nav>
+    <div class="container">
+    {% block advance_app_block %}
+
+
+    {% endblock %}
+    </div>
+    </body>
+</html>

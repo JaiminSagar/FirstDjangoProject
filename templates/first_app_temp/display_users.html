@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+{% load static %}
+<html>
+    <head>
+        <title>
+            Display Users
+        </title>
+    </head>
+    <body>
+        <h1>Here your Users:)</h1>
+        {% if access_records %}
+            <ol>
+            {% for acc in access_records %}
+
+                    <li>
+                        User Info
+                    </li>
+                    <ul>
+                        <li>First Name: {{ acc.FirstName }}</li>
+                        <li>Last Name: {{ acc.LastName }}</li>
+                        <li>Email: {{ acc.Email }}</li>
+                    </ul>
+
+
+            {% endfor %}
+            </ol>
+        {% else %}
+            <p>No Users Found:(</p>
+        {% endif %} 
+    </body>
+</html>

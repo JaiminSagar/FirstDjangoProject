@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://J:/Last Year Project/AuctionHouse/AuctionHouseProject/.idea/AuctionHouseProject.iml" filepath="J:/Last Year Project/AuctionHouse/AuctionHouseProject/.idea/AuctionHouseProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Programming Practice/Django/Blogging_Website/.idea/Blogging_Website.iml" filepath="$PROJECT_DIR$/../../Programming Practice/Django/Blogging_Website/.idea/Blogging_Website.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/FirstDjangoProject.iml" filepath="$PROJECT_DIR$/.idea/FirstDjangoProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Programming Practice/Django/Blogging_Website/mysite/.idea/mysite.iml" filepath="$PROJECT_DIR$/../../Programming Practice/Django/Blogging_Website/mysite/.idea/mysite.iml" />
+    </modules>
+  </component>
+</project>

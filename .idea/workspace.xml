@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bec8d8c5-8ed8-4a4a-9e23-6ced1f06ec5f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="FirstDjangoProject" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V3ndfMJGjP3tR4dOJNh3erTUs5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Programming Practice/Django/Blogging_Website" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="J:\Last Year Project\AuctionHouse\AuctionHouseProject\static\image" />
+      <recent name="E:\jaimin\PycharmProjects\FirstDjangoProject\static\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="J:\jaimin (E)\Programming Practice\Django\Blogging_Website\mysite\blog" />
+      <recent name="E:\jaimin\PycharmProjects\FirstDjangoProject\templates" />
+      <recent name="E:\jaimin\PycharmProjects\FirstDjangoProject\help_app" />
+      <recent name="E:\jaimin\PycharmProjects\FirstDjangoProject\templates\first_app_temp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Django server.mysite">
+    <configuration name="FirstDjangoProject" type="Python.DjangoServer" factoryName="Django server">
+      <module name="FirstDjangoProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mysite" type="Python.DjangoServer" factoryName="Django server">
+      <module name="mysite" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bec8d8c5-8ed8-4a4a-9e23-6ced1f06ec5f" name="Default Changelist" comment="" />
+      <created>1576490734886</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576490734886</updated>
+      <workItem from="1576490736426" duration="771000" />
+      <workItem from="1576562459679" duration="496000" />
+      <workItem from="1577021596998" duration="3594000" />
+      <workItem from="1577541303408" duration="1385000" />
+      <workItem from="1578034876066" duration="2902000" />
+      <workItem from="1578132469827" duration="2963000" />
+      <workItem from="1579175020272" duration="6233000" />
+      <workItem from="1579240999416" duration="1192000" />
+      <workItem from="1579355644163" duration="738000" />
+      <workItem from="1579357994612" duration="2433000" />
+      <workItem from="1579411189876" duration="598000" />
+      <workItem from="1579521854371" duration="4810000" />
+      <workItem from="1579673375337" duration="597000" />
+      <workItem from="1579690991030" duration="4065000" />
+      <workItem from="1579703952738" duration="705000" />
+      <workItem from="1579773096626" duration="3825000" />
+      <workItem from="1579788440796" duration="3309000" />
+      <workItem from="1580106145933" duration="8844000" />
+      <workItem from="1580126224166" duration="458000" />
+      <workItem from="1580147534182" duration="1201000" />
+      <workItem from="1580240587685" duration="1032000" />
+      <workItem from="1580277839311" duration="831000" />
+      <workItem from="1580297069009" duration="7565000" />
+      <workItem from="1580310589778" duration="304000" />
+      <workItem from="1580361987777" duration="974000" />
+      <workItem from="1580374153192" duration="2574000" />
+      <workItem from="1580406980959" duration="640000" />
+      <workItem from="1580449719596" duration="13193000" />
+      <workItem from="1580671546584" duration="18000" />
+      <workItem from="1580729500559" duration="3000" />
+      <workItem from="1580829596013" duration="6260000" />
+      <workItem from="1580880691725" duration="6096000" />
+      <workItem from="1581178894826" duration="321000" />
+      <workItem from="1581401801940" duration="2777000" />
+      <workItem from="1581424448546" duration="1157000" />
+      <workItem from="1581427610741" duration="3593000" />
+      <workItem from="1581448544586" duration="2024000" />
+      <workItem from="1581520854118" duration="5484000" />
+      <workItem from="1581528642890" duration="331000" />
+      <workItem from="1581568097930" duration="3045000" />
+      <workItem from="1581576643243" duration="3302000" />
+      <workItem from="1581591815925" duration="2275000" />
+      <workItem from="1581617267500" duration="606000" />
+      <workItem from="1581845711873" duration="1242000" />
+      <workItem from="1581860650201" duration="2026000" />
+      <workItem from="1581876987017" duration="625000" />
+      <workItem from="1581921777697" duration="5790000" />
+      <workItem from="1582006483845" duration="5356000" />
+      <workItem from="1582102867226" duration="5914000" />
+      <workItem from="1582131410974" duration="604000" />
+      <workItem from="1582181955904" duration="5178000" />
+      <workItem from="1582281933498" duration="812000" />
+      <workItem from="1582285124058" duration="4929000" />
+      <workItem from="1582452675694" duration="603000" />
+      <workItem from="1582548954172" duration="1275000" />
+      <workItem from="1582710281727" duration="8333000" />
+      <workItem from="1582784622036" duration="4407000" />
+      <workItem from="1582870010596" duration="3608000" />
+      <workItem from="1582874493328" duration="6289000" />
+      <workItem from="1582903038024" duration="4888000" />
+      <workItem from="1583087705325" duration="663000" />
+      <workItem from="1583258565447" duration="605000" />
+      <workItem from="1583399635172" duration="1273000" />
+      <workItem from="1583475483850" duration="9932000" />
+      <workItem from="1583507520112" duration="7044000" />
+      <workItem from="1583571529740" duration="5132000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="75" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580281200828">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="75" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1580281200828" />
+    <state x="912" y="223" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582873084547">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="912" y="223" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1582873084547" />
+    <state x="548" y="171" key="FileChooserDialogImpl" timestamp="1583514418753">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583514418753" />
+    <state x="279" y="58" key="SettingsEditor" timestamp="1580298255633">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="279" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1580298255633" />
+    <state x="477" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1583571531827">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1583571531827" />
+    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1582287348923">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1582287348923" />
+  </component>
+</project>
